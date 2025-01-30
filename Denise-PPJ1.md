@@ -19,10 +19,12 @@ After 10 hours of continuous brainstorming and working with my team on Discord t
 ![image](https://github.com/user-attachments/assets/fce9692c-a92f-42fd-8257-d875be316df3)
 
 (Above) My initial idea for the horror rhythm game on our brainstorming document, building upon Paulo's idea to make a rhythm platformer
+
 ![image](https://github.com/user-attachments/assets/db23fb86-a3eb-4930-8b4d-a411e29720ec)
 ![image](https://github.com/user-attachments/assets/1dc5025c-a268-4947-9959-11d5512e89c4)
 
 (Above) Here are pictures of some of the fleshed out game mechanics we mapped out on our brainstorming document during our Discord meeting. 
+
 
 I do have to say I feel bad for Daniel because he missed a majority of the meeting since he had a 6-9 class. He was there for the first hour, but left and missed most of the development of the ideas. We asked him to rejoin the call once he had the time and tried to catch him up to speed with our more refined game idea, but he still had to leave early so he wasn’t around to work as long as everyone else was. Hopefully we’ll have more time moving forward to work together as a complete team.
 
