@@ -11,9 +11,11 @@ Denise Payumo PPJ Week 2
 **Total Hours: 13 hrs 30 min**
 
 **Entry** 
+
 After 10 hours of continuous brainstorming and working with my team on Discord to come to terms on a game idea and complete all the documents due tomorrow, I am exhausted. I appreciate my teammates being so cooperative and receptive, and sticking around for such a long time. We spent hours bouncing ideas off each other and refining them before even getting started on the actual documents. I’m happy we made a lot of progress and I think the initial barebones idea of a horror rhythm game evolved into something pretty solid. Thomas was especially helpful to work with as his previous experience in making games helped steer the conversation in terms of what aspects to prioritize. 
 
 **Documentation**
+
 ![image](https://github.com/user-attachments/assets/fce9692c-a92f-42fd-8257-d875be316df3)
 (Above) My initial idea for the horror rhythm game on our brainstorming document, building upon Paulo's idea to make a rhythm platformer
 ![image](https://github.com/user-attachments/assets/db23fb86-a3eb-4930-8b4d-a411e29720ec)
