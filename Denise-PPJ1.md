@@ -3,10 +3,10 @@ Denise Payumo PPJ Week 2
 
 **Tasks:**
 
-Create shared team folder and set up appropriate docs for upcoming assignments - 2 hrs
-Create and set up Discord server for project organization + communication  - 1 hr
-Brainstorm Session with Team on discord + work on team documents/project pitch - 10 hrs
-Discuss skill sets and assign tasks/goals for each person in group - 30 min
+- Create shared team folder and set up appropriate docs for upcoming assignments - 2 hrs
+- Create and set up Discord server for project organization + communication  - 1 hr
+- Brainstorm Session with Team on discord + work on team documents/project pitch - 10 hrs
+- Discuss skill sets and assign tasks/goals for each person in group - 30 min
 
 **Total Hours: 13 hrs 30 min**
 
