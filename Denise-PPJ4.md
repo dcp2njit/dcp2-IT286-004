@@ -13,7 +13,7 @@ Denise Payumo PPJ Week 5
 
 **Entry** 
 
-This week wasn't super productive for me in terms of this project, but I created my own font for the game, got started on refamiliarizing myself with Unity, and tried importing some of the sample assets I made to make a mock Main Menu screen. I wasn't able to attend our team's weekly meeting this week as I was working for longer than I thought I would be. I plan to pick up the slack and work alongside them more in the following week.
+Last week I practiced importing my UI assets to unity in a dummy project file so I wouldn't mess anything up in my branch. This week I began implementing the basic Main menu and game win/loss screen onto my actual branch, integrating it with the files from main. I got the main menu start and options buttons to work, but I have nothing in the options menu for now. I also created a game loss screen with working buttons that allow the player to restart the game or return back to the main menu. I included text in the game loss screen to potentially display how long the player was able to last before losing, I will see if I'll be able to implement that functionality myself or work with Thomas to do so as the game's mechanics become more refined. The game win/loss screens currently cannot be prompted to appear, but I have already created them so they'll be ready for i
 
 **Documentation**
 
