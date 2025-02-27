@@ -9,7 +9,7 @@ Denise Payumo PPJ Week 5
 - Consulted with team and finalized concept art for the bedroom layout - 1 hr
 - Meet with team to update each other on progress, and begin process of merging our separate branches - 1 hr
 
-**Total Hours: 8 hrs
+**Total Hours: 8 hrs**
 
 **Entry** 
 
