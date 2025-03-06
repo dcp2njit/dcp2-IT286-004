@@ -26,6 +26,9 @@ Since I finished most of what was needed for the milestone and alpha build from 
 
 (Above) Current concept art for the pause menu
 
+![image](https://github.com/user-attachments/assets/75c869de-b136-405a-97c2-e18e6c93482a)
+
+(Above) Screenshot of me sending the new heartbeat sound files I found into our sound channel and asking for feedback
 
 I wasn't able to attend our weekly meeting because of work, but it wasn't much of a problem because I had already merged my work that is needed for the alpha into main. I made sure to communicate that to the rest of the team though and remind them to prioritize merging their own work into the main branch to prepare for the alpha, which Thomas updated me on and said they were able to do successfully during the meeting. 
 
