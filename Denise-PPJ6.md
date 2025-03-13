@@ -13,6 +13,14 @@ Denise Payumo PPJ Week 7
 
 In preparation for the Alpha build submission, we decided to hold an impromptu meeting the night before to push all our final touches, work on and finalize the presentation slideshow and progress pdf. During the meeting I did a small bandaid fix for the current heartbeat mechanic audio. I noticed in Paulo's script he made it so that the sound would play whenever the player pressed SPACE, but that logic doesn't make the audio play in time with the hit indicator. I told him about it and asked if I could do a bandaid fix for the alpha, so I disabled the script Paulo made for now and edited Thomas' hitindicator script to play the sound whenever the hit indicator is in the hit window. It's still scuffed so I definitely want to look into refining that next with Paulo. Thomas and I also worked on the slideshow and document together, he created the alpha build of the game and recorded our demo video, and I used his video to create the gifs included in the slides. 
 
+
+**Milestone Description**
+
+![image](https://github.com/user-attachments/assets/b8f4c6eb-6660-4bb7-a4cb-908e8631ba5a)
+
+In terms of milestones, I completed everything I needed to so far with the main menu, win/loss screen, and heartbeat mechanic UI. I definitely have a lot more UI to plan out and work, specifically for the game mechanics. I want there to be on-screen instructions or a starting tutorial, and I want to add visual elements that will improve the mechanics' look and feel. I helped Paulo in terms of sound assets when it came to the heartbeat audio in particular with what I mentioned above in my entry. 
+
+
 **Documentation**
 
 
