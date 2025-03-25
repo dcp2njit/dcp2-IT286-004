@@ -3,9 +3,7 @@ Denise Payumo PPJ Week 8
 
 **Tasks:**
 
-- Impromptu team meeting to finalize alpha build - 5 hrs
-- Worked on bandaid fix for heartbeat mechanic sound - 1 hr
-- Created alpha presenation slides and progress pdf for submission - 3 hrs
+- Spring Break meeting 
 
 **Total Hours: 7 hrs**
 
