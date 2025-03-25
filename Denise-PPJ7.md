@@ -3,14 +3,16 @@ Denise Payumo PPJ Week 8
 
 **Tasks:**
 
-- Spring Break meeting 
-
+- Hold Spring Break Meeting on 3/19 - 3 Hrs
+- Edit Team Contract - 1 hr
+- Setup Github Issues - 1 hr
+- Implement Pause menu - todo
+- Sound Dictionary implementation - todo
 **Total Hours: 7 hrs**
 
 **Entry** 
 
-In preparation for the Alpha build submission, we decided to hold an impromptu meeting the night before to push all our final touches, work on and finalize the presentation slideshow and progress pdf. During the meeting I did a small bandaid fix for the current heartbeat mechanic audio. I noticed in Paulo's script he made it so that the sound would play whenever the player pressed SPACE, but that logic doesn't make the audio play in time with the hit indicator. I told him about it and asked if I could do a bandaid fix for the alpha, so I disabled the script Paulo made for now and edited Thomas' hitindicator script to play the sound whenever the hit indicator is in the hit window. It's still scuffed so I definitely want to look into refining that next with Paulo. Thomas and I also worked on the slideshow and document together, he created the alpha build of the game and recorded our demo video, and I used his video to create the gifs included in the slides. 
-
+I had a very busy last two weeks--including spring break-- working on projects for other classes. I haven't been able to allocate as much time into actively working on the game itself, but I took time over the break to talk to everyone and let them know about the conversation Thomas and I had during office hours. I told them how we felt we needed to redistribute the work in the team contract, remove some of the load from Thomas' shoulders, as well as migrate to Github Issues for tracking progress and tasks. I spent some time to get used to the platform, move some of our biggest tasks, and set the team milestones. I'
 
 **Milestone Description**
 
