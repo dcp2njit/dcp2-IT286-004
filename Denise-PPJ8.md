@@ -26,11 +26,11 @@ As the playtest and beta deadlines get closer, I've been trying to make sure as 
 
 (Above) A screenshot of the rattling door hallucination and the radial skillcheck active
 
+I've been trying to stay more on top of things, especially in terms of managing the team. Last month I asked Daniel to provide us with drawings for posters to be used in the environment, which consisted of simple quick doodles. He hasn't been as cooperative as I hoped he'd be so I tried being a little more direct with him. It was hard to do because it felt harsh, but in the end it worked out and he followed through with what I asked of him. I'm thinking he can turn this into something he can incorporate into his contract since I believe all he had was the models(?), so I proposed additional tasks for him to do after completing all the drawings. He didn't get back to me about his contract so I'm not sure where he stands on all that yet.
+
 ![image](https://github.com/user-attachments/assets/d452193f-ec9f-4cb9-94d1-cb79d1d76646) ![image](https://github.com/user-attachments/assets/ad7a821b-9e02-4d36-be64-7fd27ba0c225)
 
 (Above) Screenshot of me being more direct with Daniel instead of letting it go like I usually do T-T and also him following through :)
-
-I've been trying to stay more on top of things, especially in terms of managing the team. Last month I asked Daniel to provide us with drawings for posters to be used in the environment, which consisted of simple quick doodles. He hasn't been as cooperative as I hoped he'd be so I tried being a little more direct with him. It was hard to do because it felt harsh, but in the end it worked out and he followed through with what I asked of him. I'm thinking he can turn this into something he can incorporate into his contract since I believe all he had was the models(?), so I proposed additional tasks for him to do after completing all the drawings. He didn't get back to me about his contract so I'm not sure where he stands on all that yet.
 
 ![image](https://github.com/user-attachments/assets/ce1f5d75-6f4c-4664-b113-215b49e7cd85)
 
