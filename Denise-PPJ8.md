@@ -22,8 +22,11 @@ As the playtest and beta deadlines get closer, I've been trying to make sure as 
 
 (Above) A screenshot of the updated game win/loss menus with player stats now displaying
 
-![image](https://github.com/user-attachments/assets/d452193f-ec9f-4cb9-94d1-cb79d1d76646) ![image](https://github.com/user-attachments/assets/ad7a821b-9e02-4d36-be64-7fd27ba0c225)
+![image](https://github.com/user-attachments/assets/3307755a-2983-4317-bf1d-777f1c9da4d4)
 
+(Above) A screenshot of the rattling door hallucination and the radial skillcheck active
+
+![image](https://github.com/user-attachments/assets/d452193f-ec9f-4cb9-94d1-cb79d1d76646) ![image](https://github.com/user-attachments/assets/ad7a821b-9e02-4d36-be64-7fd27ba0c225)
 
 (Above) Screenshot of me being more direct with Daniel instead of letting it go like I usually do T-T and also him following through :)
 
