@@ -15,6 +15,12 @@ Denise Payumo PPJ Week 11
 
 I tried to implement whatever I could before the second playtest but I wasn't able to do everything I wanted to. I added Michael's animations to the door hallucination events and created a UI jumpscare that pops on the screen when the player fails either of the door events. I tried to add some feedback to the heartbeat and hit indicator, making the heart sprite change color as bpm increases, and changing the color of the hit indicator depending on what kind of hit the player does. They're all a bit clunky and needs to be fixed/more polished but I just wanted to make sure the second playtest would have some changes/improvements the playtesters could provide feedback on. 
 
+**Milestone Description**
+
+![image](https://github.com/user-attachments/assets/7fc24df9-588c-4cbf-a317-3dfd0b485869)
+
+As of right now we haven't been able to make any large progress towards completing our milestone, but I tried helping out to refine the CTA's and provide better feedback to user actions through visual and audio cues. I aim to help with implementing auditory hallucinations while also fixing the other UI assets and functionality of the menus I said I would create in my own contract.
+
 **Documentation**
 
 ![image](https://github.com/user-attachments/assets/a5ccd861-4e37-4a38-a205-52c96ba13bc0)
