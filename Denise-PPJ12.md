@@ -8,7 +8,7 @@ Denise Payumo PPJ Week 13
 - Add objective / help menu in the pause menu - 30 min
 - Write paragraph for Paulo's patch notes - 30 min
 
-**Total Hours: 7 hrs 30 min**
+**Total Hours: 8 hrs 30 min**
 
 **Entry** 
 
