@@ -14,6 +14,7 @@ Utilizing Github Desktop, Github Issues, and holding regular meetings to discuss
 **Negatives:** 
 
 The most difficult thing about this project was having to juggle it alongside the other projects I had for other classes. If I had more time to focus on Parasomnia I would've wanted to polish it way more, add more details/interaction, and fix more of the parts playtesters gave feedback on. I'm a little disappointed we didn't get to include everything we wanted to. I still feel like the game is lacking in terms of satisfying feedback, scariness, and communication of the narrative.
+Also, working in/managing a team is always a bit of a challenge, but it was a good learning experience.
 I definitely think I struggled with a lack of direction in the beginning, not knowing what to prioritize nor how to delegate the workload. I now understand the importance of prioritizing functionality over appearance and will keep it in mind in future projects. I learned from this project that I need to improve my workflow and communication skills. I should also try to trust myself more and take more initiative.
 
 
